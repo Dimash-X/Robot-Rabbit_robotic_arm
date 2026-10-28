@@ -4,7 +4,7 @@ A beginner-friendly robotic arm with rabbit-ear-inspired grippers, designed to i
 
 ## Robot Rabbit in Action
 
-![Robot Rabbit Demo](media/Robot%20Rabbot.gif)
+![Robot Rabbit Demo](media/Robot-Rabbit.gif)
 
 ## Overview
 
