@@ -29,7 +29,7 @@ The following STL files contain the main 3D-printable components of the robot.
 |---|---|---|
 | Base | [base.stl](cad/base.stl) | Supports the main robot structure |
 | Arm | [arm.stl](cad/arm.stl) | Main mechanical arm |
-| Head | [head.stl](cad/head.stl) | Upper mechanical assembly |
+| Head | [head.stl](cad/finger_A_driven.stl) & [head.stl](cad/finger_B_idler.stl) | Upper mechanical assembly |
 
 ### 3D Printing
 
@@ -74,8 +74,8 @@ Robot Rabbit uses a Raspberry Pi and an ESP32-based control system. Python scrip
 
 | File | Description |
 |---|---|
-| [script1.py](raspberry_pi/script1.py) | Main robot control script |
-| [script2.py](raspberry_pi/script2.py) | Supporting control functionality |
+| [script1.py](raspberry_pi/sensor_dashboard_1.py) | Main robot control script |
+| [script2.py](raspberry_pi/sensor_dashboard_terminal.py) | Supporting control functionality |
 
 The Python scripts are located in the `raspberry_pi` directory.
 
@@ -88,11 +88,11 @@ The Python scripts are located in the `raspberry_pi` directory.
 
 ## Additional Projects
 
-Explore more robotics and 3D-printing projects on my [GitHub profile](https://github.com/0xD0M1M0).
+Explore more robotics and 3D-printing projects on my [GitHub profile](https://github.com/Dimash-X).
 
 ## Contact
 
-For questions, suggestions, or project improvements, you may email me: 
+For questions, suggestions, or project improvements, you may email me: xomidad@gmail.ru
 
 ## Disclaimer
 
