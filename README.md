@@ -11,7 +11,7 @@ A beginner-friendly robotic arm with rabbit-ear-inspired grippers, designed to i
 Robot Rabbit is a compact robotic arm designed to pick up objects of different sizes and move them from one location to another.
 
 The robot combines custom 3D-printed components, two servo motors, an ESP32 development board, and a Raspberry Pi. The project explores mechanical design, embedded systems, and robotic manipulation through a practical, hands-on approach.
-
+![Robot Rabbit Parts](media/Robot_Rabbitt_parts.jpg)
 ## Key Features
 
 - Two-joint mechanical arm for object manipulation.
