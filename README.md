@@ -23,13 +23,13 @@ The robot combines custom 3D-printed components, two servo motors, an ESP32 deve
 
 ## 3D Models
 
-The following STL files contain the main 3D-printable components of the robot.
+The robotic arm was designed and assembled in CAD. The three main assemblies were uploaded to the CAD environment for visualization.
 
-| Part | STL File | Description |
-|---|---|---|
-| Base | [base.stl](cad/base.stl) | Supports the main robot structure |
-| Arm | [arm.stl](cad/arm.stl) | Main mechanical arm |
-| Head | [head.stl](cad/finger_A_driven.stl) & [head.stl](cad/finger_B_idler.stl) | Upper mechanical assembly |
+| Part | Description |
+|---|---|
+| Base | Supports the main robot structure |
+| Arm | Main mechanical arm |
+| Head | Upper mechanical assembly |
 
 ### 3D Printing
 
